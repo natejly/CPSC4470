@@ -1,6 +1,0 @@
-PWD /Users/natejly/Documents/GitHub/CPSC4770/hw1
-INPUT /Users/natejly/Library/TinyTeX/texmf.cnf
-INPUT /Users/natejly/Library/TinyTeX/texmf-dist/web2c/texmf.cnf
-INPUT /Users/natejly/Library/TinyTeX/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/natejly/Documents/GitHub/CPSC4770/hw1/hw1.tex
-OUTPUT hw1.log
